@@ -1,0 +1,31 @@
+/* блок "Скидки от производителей" - связки со спецценами */
+#car_model_sub_generations_special_price {
+	margin-bottom: 2em;
+	clear:right;
+	float:left;
+	//float:none;
+}
+
+#car_model_sub_generations_special_price th,
+#car_model_sub_generations_special_price td {
+	padding:0.3em 1em 0.2em 0;
+	vertical-align:top;
+}
+
+#car_model_sub_generations_special_price .motor td {
+	border-top:5px solid #FFFFFF;
+}
+
+#car_model_sub_generations_special_price .price {
+
+}
+
+#car_model_sub_generations_special_price .old_price, #search_result .old_price {
+	margin-right:1ex;
+	text-decoration:line-through;
+}
+
+#car_model_sub_generations_special_price .action, #search_result  .action{
+	color:#D71920;
+	text-decoration:none;
+}

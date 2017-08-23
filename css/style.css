@@ -1,0 +1,79 @@
+		#search1_block{
+			position: relative;
+			top: 30px;
+		}
+		#search1_form {
+			background-attachment: scroll;
+			background-clip: border-box;
+			background-color: #FFFFFF;
+			background-image: url(/i/search-bg.png);
+			background-origin: padding-box;
+			background-position: 0 0;
+			background-repeat: no-repeat;
+			background-size: auto auto;
+			width: 150px;
+			float: right;
+		}
+		#search1_form #search {
+			float: left;
+			width: 144px;
+			padding: 0px 0px 0px 5px;
+			background: none;
+			border: none;
+			font-size: 14px;
+			line-height: 16px;
+			border-image: initial;
+			height: 20px; 
+		}
+		#search1_submit{
+			position: absolute;
+			right: 5px;
+			top: 4px;
+		}
+		#search1_result .link:hover, 
+		#search1_result .selected{
+			background-color:#C0E0FF;
+		}
+		#search1_result .link a{
+			width: 95%;
+			height: auto;
+			margin: 5px 5px 0px 5px;
+			padding-bottom: 5px;
+		}
+		#search1_result .sort_link{
+			padding-left: 15px;
+		}
+		#search1_result .sort_title{
+			color: #818181;
+			font-style: italic;
+		}
+		#search1_result .sort_title a {
+			color: #818181 !important;
+		}
+		#search1_result{
+			width:250px;
+			background-color:#ffffff;
+			box-shadow: 0 3px 7px rgba(0, 0, 0, 0.5);
+			position: relative;
+			padding: 10px;
+			top: 5px;
+			float: right;
+			clear: both;
+			display: none;
+			font-size: 13px;
+		}
+		#search1_result .search_price{
+			white-space: nowrap;
+		}
+		#search_submit
+		{
+			display: none;
+		}
+		#group
+		{
+			display: block;
+		}
+		#group_model
+		{
+			display: block !important;
+		}

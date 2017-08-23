@@ -1,0 +1,135 @@
+.quickSelBg {
+	position:relative; 
+	margin:10px 0; 
+	background:#f0f0f0; 
+	overflow:hidden;
+	width:200px;
+}
+
+.quickSelBg .rtcorn {
+	background:url('http://4tochki.ru/images/frame/quicksel_bg.png') no-repeat 0px -9px; 
+	right:0px; 
+	top:0px;
+}
+.quickSelBg .ltcorn {
+	background:url('http://4tochki.ru/images/frame/quicksel_bg.png') no-repeat -9px -9px; 
+	left:0px; 
+	top:0px;
+}
+.quickSelBg .rbcorn {
+	background:url('http://4tochki.ru/images/frame/quicksel_bg.png') no-repeat 0px 0px; 
+	right:0px; 
+	bottom:0px;
+}
+.quickSelBg .lbcorn {
+	background:url('http://4tochki.ru/images/frame/quicksel_bg.png') no-repeat -9px 0px;
+	left:0px;
+	bottom:0px;
+}
+.quickSelBg .rtcorn, .quickSelBg .ltcorn, .quickSelBg .rbcorn, .quickSelBg .lbcorn {
+	width:9px; 
+	height:9px; 
+	position:absolute; 
+}
+
+#quickSEL {
+	margin:0px auto; 
+	width:180px; 
+	font:14px/14px arial; 
+	color:#868686; 
+	background:url('http://4tochki.ru/images/line2.png') no-repeat 256px 0px; 
+	padding:8px 0 8px 20px;
+	position:relative; 
+	font-weight: bold;
+}
+
+#quickSELform input {
+	vertical-align:top; 
+	background:#f0f0f0;
+}
+
+#quickSELform {
+	width:200px; 
+	margin:0px auto; 
+	overflow:hidden; 
+	position:relative; 
+	padding-top:10px;
+}
+
+#quickSELform ul {
+	list-style-type:none; 
+	margin:0px auto; 
+	padding:0px; 
+	display:inline-block;
+	width:90px;
+	float: left;
+}
+
+#quickSELform ul li {
+	display:block; 
+	float:left; 
+	margin:0px 5px; 
+	padding:5px 0px; 
+	font:bold 16px/26px arial; 
+	color:#787878; 
+	position:relative
+}
+
+#quickSELform ul li#seasons1, #quickSELform ul li#seasons2 {
+	padding-top:35px; 
+	*padding-top:30px;
+	width:32px; 
+	min-width:32px;
+	text-align:center; 
+	line-height:0px; 
+	cursor:pointer;
+	height: 2px;
+}
+
+#quickSELform ul li#seasons1 {
+	margin:0px 9px 10px 0px; 
+	background:url(http://4tochki.ru/images/season.png) no-repeat 0px -48px;
+}
+
+#quickSELform ul li#seasons2 {
+	margin:0px 5px 10px 9px; 
+	background:url(http://4tochki.ru/images/season.png) no-repeat 0px 0px;
+}
+
+#quickSELform select {
+	width:55px; 
+	height:23px; 
+	border:1px solid #b3b9c3; 
+	font:bold 12px/12px arial; 
+	color:#111;
+}
+
+#quickSELform input.submit {
+	cursor:pointer;
+	border:1px solid #778698; 
+	padding:0px 12px; 
+	*padding:0px; 
+	font:bold 14px/14px arial; 
+	color:#315a99; 
+	background:url('http://4tochki.ru/images/buttonBG1.png') repeat-x; 
+	margin-right:0px;
+}
+
+#quickSELform ul li span.caption {
+	display:block; 
+	position:absolute; 
+	margin-top:-10px; 
+	margin-left:8px; 
+	color:#7d7d7d; 
+	font:12px/12px arial;
+}
+
+#quickSELform ul li span.checkbox {
+	display:block; 
+	position:absolute; 
+	margin-top:5px; 
+	margin-left:0px; 
+	*margin-left:-4px; 
+	color:#000; 
+	font:12px/12px arial;
+}

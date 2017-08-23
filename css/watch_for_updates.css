@@ -1,0 +1,72 @@
+#watch_for_updates_modal.not_display {
+	display: none;
+}
+#watch_for_updates_modal{
+	color: #000;
+	font-size: 100%;
+	position: absolute;
+	padding: 0px;
+	width: 430px;
+	height: 212px;
+	left: 50%;
+	margin-left: 0;
+	overflow: hidden;
+	z-index: 100;
+}
+#watch_for_updates_popup {
+	background: url("/38.9/i/watch_for_updates/background.png") no-repeat;
+	color: #000;
+	font-size: 100%;
+	position: absolute;
+	padding: 0px;
+	width: 408px;
+	height: 204px;
+	left: auto;
+	margin-left: 0;
+	overflow: hidden;
+	z-index: 100;
+}
+#watch_for_updates_popup_accept {
+	background: url("/38.9/i/watch_for_updates/background_accept.png") no-repeat;
+	color: #000;
+	font-size: 100%;
+	position: absolute;
+	padding: 0px;
+	width: 408px;
+	height: 204px;
+	left: auto;
+	margin-left: 0;
+	overflow: hidden;
+	z-index: 100;
+}
+#watch_for_updates_modal .close {
+	background: url("/39.35/f/1/global/icon_close.png") no-repeat;
+	cursor: pointer;
+	width: 13px;
+	height: 13px;
+	top: 15px;
+	right: 35px;
+	position:absolute;
+}
+
+#watch_for_updates_popup h2 {
+	font-size: 200%;
+	margin: 0;
+}
+
+#watch_for_updates_popup .btn_framed_blue .c {
+	padding: 0;
+}
+#watch_for_updates_popup .btn_framed_blue .c input {
+	display: block;
+	padding: 8px 10px;
+	margin: -3px 0 -13px;
+	position: relative;
+}
+#watch_for_updates_form {
+	z-index:1000;
+	position:relative;
+}
+#only-photo-vitrine{
+	position:relative;
+}

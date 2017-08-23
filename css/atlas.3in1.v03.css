@@ -1,0 +1,13 @@
+/* Atlas advertisement
+------------------------------ */
+#sol240x400 OBJECT,
+#sol240x400 IMG,
+#sol240x400 EMBED {
+	display: block;
+	margin: 0;
+	padding: 0;
+	}
+#sol240x400 BR {
+	display: none;
+	}
+

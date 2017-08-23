@@ -1,0 +1,62 @@
+p,  ul, ul li {
+	float: none !important;
+	position: relative !important;
+	left: 0 !important;
+}
+
+h1 {
+	margin-top: 0 !important;
+}
+
+.test_drive_content_inner {
+	width: 100% !important;
+}
+
+#content, #test_drive_article {
+	padding: 0 !important;
+	margin: 0 !important;
+}
+
+#navigation,
+#photo,
+#car_list_small,
+.banner_header,
+.ad_block,
+.local_navigation2,
+.local_navigation,
+#additions,
+#useful_links,
+#footer,
+#listing,
+.test_drive_content_addition,
+.path,
+.pdd_link,
+.mentions,
+.banner,
+.car_list_small,
+#more_test_drives,
+#more_according_themes,
+#more_articles,
+#more_publishings,
+#complectations_list,
+.vitrine-mini,
+#header .shortcuts ,
+#header_bubble_container,
+#home_page .marks_models,
+#home_page #search_price,
+#home_page #search_body,
+#home_page #extended_search {
+	display: none !important;
+}
+
+
+#own_cost {
+	margin-left:0;
+}
+
+
+#main_content .inner {
+	width:100%;
+}
+
+

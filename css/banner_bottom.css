@@ -1,0 +1,61 @@
+#bottom_banner{
+	position: fixed;
+	bottom: 0px;
+	left: auto;
+	overflow: hidden;
+	height: 50px;
+	z-index: 999999;
+	font-weight: bold;
+	font-size: 13px;
+	cursor: pointer;
+	width: 100%;
+	/*
+	max-width: 1280px;
+	*/
+}
+#bottom_banner_background{
+	background: url("/i/banner_mitsubishi_background1.gif") repeat-x scroll 0 0 transparent;
+	width: 100%;
+	position: absolute;
+	height: 32px;
+	bottom: 0px;
+	left: 0px;
+}
+
+#bottom_banner_container{
+	position: relative;
+	height: 50px;
+}
+#bottom_banner_image{
+	height: 50px;
+	width: 350px;
+	position: relative;
+	margin: 0 auto;
+}
+#bottom_banner_image img{
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+}
+
+#bottom_banner_close{
+	position: absolute;
+	cursor: pointer;
+	top: 5px;
+	right: 5px;
+	background: url("/i/bottom_close.png") no-repeat 0 0 transparent;
+	width: 10px;
+	height: 10px;
+}
+#bottom_banner_title{
+	color: #000000;
+	font-size: 14px;
+	font-weight: normal;
+	font-family: Arial;
+	position: absolute;
+	bottom: 3px;
+	right: 0px;
+}
+#bottom_banner_title:hover{
+	color: #b60a31;
+}

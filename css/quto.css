@@ -1,0 +1,747 @@
+#complectation .tabs_end ul {
+	border-top: 2px solid #F0E600;
+	border-bottom-width: 0 !important;
+	padding: 0 0 0.05em;
+}
+
+.h2{
+    font-size: 21px;
+    font-weight: bold;
+    margin: 0px 0px 4.2px;
+}
+#popular_list .h2{
+	font-size: 18px;
+}
+.h3{
+    font-weight: bold;
+    font-size: 16px;
+}
+.h4{
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.banner_header{
+	height:auto;
+/*	min-height:90px;*/
+	min-width:728px;
+	max-width: 1420px;
+	position: relative;
+	/*z-index:1;*/
+	text-align: center;
+	font-size:0;
+	line-height: 0;
+}
+
+#mentions_top {
+	width: 200px;
+	padding:0 0 0.8em 1em;
+}
+
+.generation {
+	color: #ccc !important;
+	display: inline !important;
+	font-size: 45% !important;
+}
+
+.search_column {
+	cursor: pointer;
+}
+
+.nowrap {
+	white-space: nowrap !important;
+}
+
+.search_result_table .search_result_sort a {
+	font-size: 100.01% !important;
+}
+
+#magazine_1 p.source {
+	font-size: 80%;
+}
+
+.magazine_columns_2 p.source {
+	font-size: 80%;
+}
+
+#test_drive_article .sign p.source,
+#test_drive_article .sign p.source a {
+	color: #555555;
+	font-size: 110%;
+}
+
+#car_photo_gallery .car_photo_gallery_nav_preview_container {
+	margin-left:0em;
+}
+
+#compare th, #compare td {
+	width: 18em;
+}
+.credit-table th{
+	font-size:80%;
+	font-weight:normal;
+	padding:0.3em 0.5em 0.2em;
+}
+.bank-border{
+	border-top:3px solid #FFFFFF;
+}
+table.stavka {
+	background: #F2F2F2;
+	border: 1em solid #F2F2F2;
+}
+.stavka td, .stavka th{
+	padding: 1em;
+}
+.stavka th{
+	border-bottom: 1px solid #BCBEC0
+}
+.stavka .center{
+	text-align: center;
+}
+#min_deposit, #min_credit {
+	display: none;
+	font-size: 75%;
+	color: #ff0000;
+}
+#content ul.local_navigation li {
+	font-size:1em;
+}
+
+
+#search_price_new .zf fieldset {
+	margin: 0;
+	padding: 0;
+	border: none;
+	width: 235px;
+	float: left;
+}
+#search_price_new  .zf-slider-horizontal,
+#search_price_new  .zf-slider-horizontal .zf-slider-scale,
+#search_price_new .zf-changed,
+#search_price_new .zf-slider dl {
+	width: 235px;
+}
+#search_price_new  .zf-slider-horizontal {
+	margin-top:0;
+	height: 1.42em;
+}
+
+#search_price_new  .zf-slider-horizontal .zf-slider-range-0,
+#search_price_new  .zf-slider-horizontal .zf-slider-range-1 {
+	background: none;
+}
+
+#search_price_new .zf-slider-scale {
+	display: none;
+}
+
+#search_price_new .zf-slider-scale .zf-slider-mark {
+	display:  none;
+}
+
+#search_price_new .zf-slider dl {
+	position: absolute;
+	top: 0;
+	left: 0;
+	margin:10px 0 0;
+}
+
+#search_price_new .zf-slider dl dd {
+	margin: 0;
+}
+
+#search_price_new  .zf-slider-value {
+	display: none;
+}
+
+#search_price_new .search_price_form .search_price_form_input {
+	color: #000;
+	width: auto;
+	font-size: 120%;
+}
+#search_price_new .search_price_form .search_price_form_input input {
+	color: #000;
+}
+#search_price_new .zf-slider-horizontal,
+#search_price_new .zf-slider-horizontal .zf-slider-scale,
+#search_price_new .zf-changed,
+#search_price_new .zf-slider dl,
+#search_price_new .zf fieldset {
+	width: 120px;
+}
+
+#search_price_value_euro_fieldset,
+#search_price_value_usd_fieldset {
+	display: none;
+}
+
+#search_price_new .zf-slider dl {
+	margin: 0;
+}
+
+#search_price_new .zf-slider-horizontal .zf-slider-control {
+	top: 110%;
+}
+
+#search_price_new .search_price_form .search_price_form_input span.rur {
+	margin: 0;
+	font-size: 100%;
+}
+
+#search_price_new .search_price_form,
+#search_price_new .search_price_header {
+	clear: none;
+	margin: 0;
+}
+#search_price_new .search_price_header {
+	font-weight: bold;
+	margin: 0.5em 1em 0.5em 0;
+}
+
+#search_price_new {
+	margin: 0;
+	padding: 1em 1em 0.3em;
+}
+
+#search_body .search_body_header {
+	margin: 0 0 0.5em;
+}
+
+#search_body .search_body_form {
+	margin: 0;
+}
+
+
+#search_auto .right_column {
+	padding: 0;
+	position: relative;
+}
+
+#search_auto.search_old_auto .right_column .right_column_inner {
+	display: none;
+}
+#search_auto .right_column h3 {
+	margin: 0 0 0.5em;
+}
+#search_auto .right_column h3 a {
+	color: #000;
+}
+
+#search_auto .right_column ul,
+#search_auto .right_column li {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+#search_auto .right_column li {
+	margin: 0 0 0.5em;
+}
+
+#search_auto .right_column .all a {
+	color: #000;
+}
+
+
+#search_price_label {
+	float: left;
+	font-weight:normal;
+	margin:0 0 0 15px;
+	position: relative;
+	width: 0.7em;
+}
+
+#search_price_label span.rur {
+	border-bottom:0;
+	cursor:pointer;
+}
+
+#search_price_label #search_price_label_list {
+	list-style: none;
+	background: #FFF;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	top: -6px;
+	left: -6px;
+	border: 1px solid #9A9A9A;
+	display: none;
+	overflow: hidden;
+}
+
+#search_price_label .selected_label .usd,
+#search_price_label .selected_label .euro{
+	display: none;
+}
+
+#search_price_label #search_price_label_list li {
+	margin: 0;
+	padding: 5px;
+	width: 100%;
+}
+#search_price_label #search_price_label_list li.selected {
+	background: #F0E600;
+}
+
+#useful {
+	font-size: 150%;
+	padding: 1em 0 0;
+}
+#useful p {
+	margin: 0 0 2em;
+	padding: 0 0 0 70px;
+	position: relative;
+}
+#useful .icon {
+	top: 50%;
+	margin-top: -26px;
+	left: 0;
+}
+#useful .pdd .icon {
+	background: url("/39.35/f/1/global/pdd_icon.png") no-repeat;
+	width: 52px;
+	height: 51px;
+}
+#useful .compare .icon {
+	background: url("/39.35/f/1/global/compare_icon.png") no-repeat;
+	width: 58px;
+	height: 52px;
+}
+
+#useful .feature .icon {
+	background: url("/39.35/f/1/global/features.png") no-repeat;
+	width: 58px;
+	height: 52px;
+}
+
+#useful .vitrine .icon {
+	background: url("/39.35/f/1/global/vitrine.png") no-repeat;
+	width: 58px;
+	height: 62px;
+}
+h1 .rss_icon {
+	background:transparent url(/39.35/f/1/global/rss_icon.jpg) no-repeat scroll 0 0;
+	float:left;
+	height:73px;
+	left:-85px;
+	margin-right:-85px;
+	position:relative;
+	top:-20px;
+	width:73px;
+}
+
+
+#content ul.local_navigation .where_buy{
+	color: #3282D2;
+	clear: both;
+}
+
+#content ul.local_navigation .where_buy, #content ul.local_navigation .credit, #content ul.local_navigation .inventory{
+	margin-right:3px !important;
+	padding-right:3px !important;
+}
+#content ul.local_navigation li.selected{
+	margin-left:-3px !important;
+}
+#vote_block .border {
+	background:transparent url(/39.35/f/1/global/border_pink.png) repeat scroll 0 0;
+	left:0;
+	overflow:hidden;
+	position:absolute;
+	top:0;
+	width:100%;
+	height: 3px;
+}
+#vote_rating_ok {
+	display: none;
+	margin-bottom: 1.5em;
+}
+#vote_block p {
+	margin: 0.5em 0px;
+}
+#vote_block {
+	margin-bottom: 2.5em;
+}
+#vote_block .btn_framed_blue .c {
+	padding:6px 15px 8px;
+}
+#vote_block #questions_amount{
+	margin-top: 1em;
+}
+#test_drive_article .user_rating_empty{
+	position:relative;
+	top:3px;
+	//top:0px;
+}
+#user_rating .user_rating_empty, #test_drive_article .user_rating_empty{
+	display: inline-block;
+	width: 110px;
+	height: 19px;
+	background: url('/39.35/f/1/global/icon_star_empty.png') repeat-x;
+}
+
+#user_rating .user_rating_full_1,
+#user_rating .user_rating_full_2,
+#user_rating .user_rating_full_3,
+#user_rating .user_rating_full_4,
+#user_rating .user_rating_full_5,
+#test_drive_article .user_rating_full_0_5,
+#test_drive_article .user_rating_full_1,
+#test_drive_article .user_rating_full_1_5,
+#test_drive_article .user_rating_full_2,
+#test_drive_article .user_rating_full_2_5,
+#test_drive_article .user_rating_full_3,
+#test_drive_article .user_rating_full_3_5,
+#test_drive_article .user_rating_full_4,
+#test_drive_article .user_rating_full_4_5,
+#test_drive_article .user_rating_full_5
+{
+	display: inline-block;
+	width: 22px;
+	height: 19px;
+	background: url('/39.35/f/1/global/icon_star_full.png') repeat-x;
+}
+
+#user_rating .user_rating_blue,
+#test_drive_article .user_rating_blue{
+	background: url('/39.35/f/1/global/icon_star_full.png') repeat-x 0 -19px;
+}
+
+#user_rating .user_rating_full_1,
+#test_drive_article .user_rating_full_1{
+	width: 22px;
+}
+
+#user_rating .user_rating_full_2,
+#test_drive_article .user_rating_full_2{
+	width: 44px;
+}
+
+#user_rating .user_rating_full_3,
+#test_drive_article .user_rating_full_3{
+	width: 66px;
+}
+
+#user_rating .user_rating_full_4,
+#test_drive_article .user_rating_full_4{
+	width: 88px;
+}
+
+#user_rating .user_rating_full_5,
+#test_drive_article .user_rating_full_5{
+	width: 110px;
+}
+
+#test_drive_article .user_rating_full_0_5{
+	width: 10px;
+}
+
+#test_drive_article .user_rating_full_1_5{
+	width: 32px;
+}
+
+#test_drive_article .user_rating_full_2_5{
+	width: 54px;
+}
+
+#test_drive_article .user_rating_full_3_5{
+	width: 76px;
+}
+
+#test_drive_article .user_rating_full_4_5{
+	width: 98px;
+}
+
+
+#test_drive_article .star_empty{
+	display: inline-block;
+	width: 96px;
+	height: 19px;
+	background: url('/39.35/f/1/global/star_empty.png') repeat-x;
+}
+
+#test_drive_article .star_full_0_5,
+#test_drive_article .star_full_1,
+#test_drive_article .star_full_1_5,
+#test_drive_article .star_full_2,
+#test_drive_article .star_full_2_5,
+#test_drive_article .star_full_3,
+#test_drive_article .star_full_3_5,
+#test_drive_article .star_full_4,
+#test_drive_article .star_full_4_5,
+#test_drive_article .star_full_5
+{
+	display: inline-block;
+	width: 22px;
+	height: 19px;
+	background: url('/39.35/f/1/global/star_full.png') repeat-x;
+}
+
+#test_drive_article .star_full_1{
+	width: 22px;
+}
+
+#test_drive_article .star_full_2{
+	width: 37px;
+}
+
+#test_drive_article .star_full_3{
+	width: 56px;
+}
+
+#test_drive_article .star_full_4{
+	width: 77px;
+}
+
+#test_drive_article .star_full_5{
+	width: 96px;
+}
+
+#test_drive_article .star_full_0_5{
+	width: 10px;
+}
+
+#test_drive_article .star_full_1_5{
+	width: 29px;
+}
+
+#test_drive_article .star_full_2_5{
+	width: 48px;
+}
+
+#test_drive_article .star_full_3_5{
+	width: 66px;
+}
+
+#test_drive_article .star_full_4_5{
+	width: 86px;
+}
+
+.add_remove_compare{
+	padding: 0.5em 0.5em 0.2em; 
+	height: 11px;
+	width: 11px;
+	vertical-align: middle !important;
+}
+.add_remove_compare .addcompare{
+	height: 11px;
+	width: 11px;
+	background: url("/39.35/f/1/cars/compare/plus.png") no-repeat scroll 0 0 transparent;
+	cursor: pointer;
+}
+.add_remove_compare .remove{
+	background: url("/39.35/f/1/cars/compare/mines.png") no-repeat scroll 0 0 transparent;
+}
+
+
+
+#interview_block {
+	background: url("/39.35/f/1/global/border_blue.png");
+	margin: 4em 0 2em;
+	padding: 3px;
+}
+#interview_content{
+	background: #ffffff;
+	padding: 0.3em 1em 1em;
+	position: relative;
+}
+#interview_content .h2{
+	margin-top: 0px;
+	margin-left: 55px;
+	margin-bottom: 20px;
+}
+#interview_content .btn_framed_blue .c {
+	padding-right: 15px !important;
+}
+#interview_content p {
+	margin: 10px 0px 10px 0px !important;
+}
+
+#interview_block li:hover {
+	background-color:#ffffff;
+}
+/*#answers .bar_color_0{
+	background-color:#18F2BD;
+}
+#answers .bar_color_1{
+	background-color:#C8F2BD;
+}
+#answers .bar_color_2{
+	background-color:#fdd20b;
+}
+#answers .bar_color_3{
+	background-color:#37bff1;
+}
+#answers .bar_color_4{
+	background-color:#ed9fea;
+}
+#answers .bar_color_5{
+	background-color:#9fa3ed;
+}
+#answers .bar_color_6{
+	background-color:#d6f601;
+}
+#answers .bar_color_7{
+	background-color:#32a5ef;
+}
+#answers .bar_color_8{
+	background-color:#ed9f9f;
+}
+#answers .bar_color_9{
+	background-color:#eddb9d;
+}
+#answers .bar_color_10{
+	background-color:#9dedac;
+}
+#answers .bar_color_11{
+	background-color:#d79ded;
+}*/
+#answers .bar{
+	position:absolute;
+	margin: 0px !important;
+	left:0px;
+	top:0px;
+	z-index:-1;
+}
+#answers .answer{
+	margin-left:70px;
+	position:relative; 
+	z-index: 0;
+}
+#answers .percent{
+	padding:0px !important;
+	float:left;
+}
+#answers div{
+	margin-top: 10px;
+}
+#banner_header{
+	background: url('/i/banner_header_background.png') no-repeat;
+	width: 372px;
+	height: 94px;
+	margin: 0 auto;
+	text-align: center;
+	vertical-align: middle;
+}
+#banner_header a{
+	color: #FFFFFF !important;
+	font-size: 15px;
+	position: relative;
+	top: 40px;
+}
+
+#vitrine_sponsor{
+	height: 50px;
+	padding: 5px 5px 0px 5px;
+	cursor: pointer;
+	min-width: 650px;
+}
+
+#vitrine_sponsor #vitrine_sponsor_number{
+	float: right;
+}
+#vitrine_sponsor #vitrine_sponsor_logo{
+	min-width: 120px;
+}
+#vitrine_sponsor #vitrine_sponsor_number{
+	font-size: 16px;
+	font-weight: bold;
+}
+#vitrine_sponsor #vitrine_sponsor_header{
+	font-size: 16px;
+}
+#vitrine_sponsor #vitrine_sponsor_links{
+	font-size: 14px;
+	margin-top: 5px;
+}
+#vitrine_sponsor #vitrine_sponsor_links a{
+	color: #000000;
+}
+#vitrine_sponsor #vitrine_sponsor_links{
+	min-width: 350px;
+	overflow: hidden;
+	height: 16px;
+}
+#vitrine_sponsor #vitrine_sponsor_links div{
+	overflow: hidden;
+	position: relative;
+	float: left;
+	margin-right: 4px;
+}
+#vitrine_sponsor #vitrine_sponsor_body{
+	width: 100%;
+}
+#vitrine_sponsor #vitrine_sponsor_number{
+	min-width: 130px;
+}
+.seo_text a{
+	font-weight: bold !important;
+}
+.btn-success {
+	font-family:"arial";
+	font-size: 13px;
+	font-weight: normal;
+	text-shadow: none;
+	border-top: 1px solid #1992da;
+	border-bottom: 1px solid #00589c;
+	border-left: 1px solid #0c75bb;
+	border-right: 1px solid #0c75bb;
+	color: #ffffff;
+	-moz-box-shadow: inset 0px 1px 1px 0px #6fc5f5;
+	-webkit-box-shadow: inset 0px 1px 1px 0px #6fc5f5;
+	-o-box-shadow: inset 0px 1px 1px 0px #6fc5f5;
+	box-shadow: inset 0px 1px 1px 0px #6fc5f5;
+	line-height: 18px;
+	background: #37aaea;
+	background-image: -moz-linear-gradient(270deg, #37aaea 0%, #117ed2 100%);
+	background-image: -webkit-linear-gradient(270deg, #37aaea 0%, #117ed2 100%);
+	background-image: -o-linear-gradient(270deg, #37aaea 0%, #117ed2 100%);
+	background-image: linear-gradient(180deg, #37aaea 0%, #117ed2 100%);
+	border-radius: 4px;
+	padding: 5px 10px;
+	float: left;
+	vertical-align: middle;
+	text-align: center;
+	cursor: pointer;
+}
+.btn-success:hover {
+	background: #2488d4;
+	background-image: -moz-linear-gradient(270deg, #2488d4 0%, #1c5bad 100%);
+	background-image: -webkit-linear-gradient(270deg, #2488d4 0%, #1c5bad 100%);
+	background-image: -o-linear-gradient(270deg, #2488d4 0%, #1c5bad 100%);
+	background-image: linear-gradient(180deg, #2488d4 0%, #1c5bad 100%);
+}
+.kasko_or_credit_link {
+	color: #ffffff;
+	text-decoration: none;
+	position: absolute;
+	left: 53px;
+	top: 14px;
+	font-size: 16px;
+}
+
+.kasko_or_credit_link:visited, .kasko_or_credit_link:active {
+	color: #ffffff !important;
+}
+.img_zero_pixel{
+	top:0px;
+	left: 0px;
+	position: absolute;
+}
+
+
+@font-face {
+	font-weight: normal;
+	font-style: normal;
+	font-family: "NissanAG";
+	src: url('/s/nissan_font/NissanAG-Regular.eot');
+	src: url('/s/nissan_font/NissanAG-Regular.eot?#iefix') format('embedded-opentype'),
+		url('/s/nissan_font/NissanAG-Regular.woff') format('woff'),
+		url('/s/nissan_font/NissanAG-Regular.ttf') format('truetype'),
+		url("/s/nissan_font/NissanAG-Regular.svg"),
+		url("/s/nissan_font/NissanAG-Regular.otf");
+}
+
+#bottom_banner_title{
+	font-family: "NissanAG";
+}
